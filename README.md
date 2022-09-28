@@ -6,8 +6,8 @@ This repo contains the source code of a blog project that will be used throughou
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Creator](#creators)
+1. [Instructions](#instructions)
+2. [Creator](#creators)
 
 ## Instructions
 
